@@ -1,0 +1,6 @@
+google-genai>=1.0
+pinecone>=5.0
+streamlit
+pydantic>=2
+python-dotenv
+pypdf
